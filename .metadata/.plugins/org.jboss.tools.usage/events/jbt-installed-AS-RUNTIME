@@ -1,16 +1,8 @@
-<<<<<<< HEAD
-#Tue Jan 21 16:18:52 IST 2020
+#Tue Jan 21 16:22:03 IST 2020
 l=Installed plugins\: AS-RUNTIME
 ct=jbt
-d=1579603732518
-c=1
-=======
-#Tue Jan 21 16:16:00 IST 2020
-l=Installed plugins\: AS-RUNTIME
-ct=jbt
-d=1579603560856
-c=2
->>>>>>> indhu1.0
+d=1579603923674
+c=3
 cmp=usage
 a=installed
 cl=AS-RUNTIME
