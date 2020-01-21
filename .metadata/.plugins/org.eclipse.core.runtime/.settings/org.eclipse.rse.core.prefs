@@ -1,3 +1,7 @@
 activeuserprofiles=QTLSYS0-237;Team
 eclipse.preferences.version=1
 org.eclipse.rse.systemtype.local.systemType.defaultUserId=indhu.manchukonda
+<<<<<<< HEAD
+=======
+useridperkey=QTLSYS0-237.Local\=indhu.manchukonda;
+>>>>>>> indhu1.0

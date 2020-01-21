@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 #Tue Jan 21 16:18:52 IST 2020
 l=true|false|N/A
 ct=central
 d=1579603732416
 c=1
+=======
+#Tue Jan 21 16:16:00 IST 2020
+l=true|false|N/A
+ct=central
+d=1579603560732
+c=2
+>>>>>>> indhu1.0
 cmp=usage
 a=showOnStartup
 cl=N/A
