@@ -1,0 +1,25 @@
+2020-01-21 16:10:19,678 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RKZ:RKZ_ILP:0.0.1-SNAPSHOT @ C:\QC_SAM\RKZ_ILP\pom.xml.
+2020-01-21 16:10:26,068 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RKZ_ILP/src/main/java
+2020-01-21 16:10:26,069 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RKZ_ILP/src/test/java
+2020-01-21 16:10:26,598 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2020-01-21 16:10:28,156 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-21 16:10:28,157 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\QC_SAM\RKZ_ILP\src\main\resources
+2020-01-21 16:10:28,158 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-21 16:10:28,158 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\QC_SAM\RKZ_ILP\src\test\resources
+2020-01-21 16:11:19,142 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-21 16:11:19,142 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\QC_SAM\RKZ_ILP\src\main\resources
+2020-01-21 16:11:19,143 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-21 16:11:19,143 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\QC_SAM\RKZ_ILP\src\test\resources
+2020-01-21 16:11:39,515 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-21 16:11:41,437 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RKZ:RKZ_ILP:0.0.1-SNAPSHOT @ C:\QC_SAM\RKZ_ILP\pom.xml.
+2020-01-21 16:11:43,403 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RKZ_ILP/src/main/java
+2020-01-21 16:11:43,403 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RKZ_ILP/src/test/java
+2020-01-21 16:11:43,879 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2020-01-21 16:11:45,760 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-21 16:11:45,760 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\QC_SAM\RKZ_ILP\src\main\resources
+2020-01-21 16:11:45,762 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-21 16:11:45,762 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\QC_SAM\RKZ_ILP\src\test\resources
+2020-01-21 16:12:24,363 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-21 16:12:24,364 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\QC_SAM\RKZ_ILP\src\main\resources
+2020-01-21 16:12:24,365 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-21 16:12:24,365 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\QC_SAM\RKZ_ILP\src\test\resources
